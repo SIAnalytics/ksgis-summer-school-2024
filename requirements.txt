@@ -1,0 +1,10 @@
+leafmap
+pystac
+pystac_client
+rasterio
+pandas
+geopandas
+shapely
+folium
+matplotlib
+mapclassify

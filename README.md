@@ -6,6 +6,13 @@
 
 장소: 이화여자대학교 교육관 B동 B155호 컴퓨터실습실
 
+## 초기 설정 방법
+
+```
+!git clone git@github.com:SIAnalytics/ksgis-summer-school-2024.git
+!pip install -r requirements.txt
+```
+
 ## OVISION Earth 활용 실습
 
 1. 차량의 가로, 세로 길이 측정하기
