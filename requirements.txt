@@ -8,3 +8,5 @@ shapely
 folium
 matplotlib
 mapclassify
+planetary-computer
+stackstac

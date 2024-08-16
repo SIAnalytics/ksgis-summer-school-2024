@@ -24,11 +24,7 @@
 1. COG 불러오기
 1. STAC API 불러오기
 1. TiTiler로 COG 가시화하기
-
-## 응용 실습
-
-1. Leafmap으로 벡터 데이터 가시화하기
-1. Leafmap과 TiTiler로 래스터(COG) 데이터 가시화하기
+1. stackstac으로 멀티 밴드 다루기
 
 ## 고급 실습
 
