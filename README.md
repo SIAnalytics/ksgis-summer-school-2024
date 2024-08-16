@@ -1,9 +1,8 @@
 # 대한공간정보학회 2024 여름학교
 
-## OVISION Earth 활용 및 클라우드 네이티브 공간정보 분석
-
-강사: 함상우 / (주)에스아이에이 기술기획팀 GIS Engineer
-문의: swham@si-analytics.ai
+과정: OVISION Earth 활용 및 클라우드 네이티브 공간정보 분석
+일시: 2024년 8월 19일(월) 오전 10시 - 오후 4시 50분(6H)
+장소: 이화여자대학교 교육관 B동 B155호 컴퓨터실습실
 
 ## OVISION Earth 활용 실습
 
@@ -27,3 +26,8 @@
 1. 식생 분류 머신러닝 모델 학습시키기
 1. 나만의 COG 만들기
 1. 나만의 STAC Item 만들기
+
+## 문의
+
+함상우 / (주)에스아이에이 기술기획팀 GIS Engineer
+swham@si-analytics.ai
