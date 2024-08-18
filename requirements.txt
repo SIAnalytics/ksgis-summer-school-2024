@@ -9,5 +9,5 @@ folium
 matplotlib
 mapclassify
 planetary-computer
-stackstac
 tabulate
+stackstac[viz]
